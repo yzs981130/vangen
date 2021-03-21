@@ -1,4 +1,6 @@
-module 4d63.com/vangen
+module github.com/yzs981130/vangen
+
+go 1.14
 
 require (
 	github.com/sergi/go-diff v1.0.0
